@@ -1,0 +1,18 @@
+.face-recognition-container {
+    position: relative;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 640px;
+  }
+  
+  video {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+  }

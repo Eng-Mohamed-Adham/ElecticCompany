@@ -1,0 +1,25 @@
+{
+  "short_name": "Golden Tech Associates",
+  "name": "Golden Tech Associates",
+  "icons": [
+    {
+      "src": "ico.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "ico.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "ico.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e72bd",
+  "background_color": "#ffffff"
+}
